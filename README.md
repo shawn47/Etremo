@@ -1,9 +1,22 @@
 # Etremo
 
-Etremo stands for Efficient Recovery of Missing Order Event Logs.
+**Etremo** stands for ***E**fficien**t Re**covery of **M**issing **O**rder Event Logs*.
 
-Environment requires: JDK 1.7+.
+## Environment requires 
+JDK 1.7+
+
+## Direcory structure
 
 This repository provides the execution program, the necessary libraries and all experiment data.
 
-The default input directory of etremo.jar is the dir with name of data. Users can also set other input path.
+├── data
+│   ├── realdata
+│   └── syntheticdata
+├── etremo.jar
+└── lib
+
+## Usage tips
+
+Usage tips for *etremo.jar* are listed at every step.
+
+The default input path of etremo.jar is *data*. Users can also set other input path.
