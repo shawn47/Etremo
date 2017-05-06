@@ -10,9 +10,13 @@ JDK 1.7+
 This repository provides the execution program, the necessary libraries and all experiment data.
 
 ├── data
+
 │   ├── realdata
+
 │   └── syntheticdata
+
 ├── etremo.jar
+
 └── lib
 
 ## Usage tips
