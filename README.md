@@ -1,4 +1,4 @@
-# Etremo stands for Efficient Recovery of Missing Order Event Logs
+# Etremo
 
 Etremo stands for Efficient Recovery of Missing Order Event Logs.
 
